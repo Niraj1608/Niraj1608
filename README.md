@@ -17,7 +17,7 @@ I love building scalable applications, experimenting with LLMs, and contributing
 ---
 
 ### 💼 Experience
-- **Software Developer Intern @ Infodesk (Jan 2025 – Present)**  
+- **Software Developer Intern @ Infodesk (Jan 2025 – Jul 2025)**  
   - Built **CI/CD pipelines** with AWS ECS & ECR  
   - Developed a **high-performance search API** (FastAPI + MongoDB) → reduced response time by 40%  
   - Improved **query performance** of large datasets by 35%  
