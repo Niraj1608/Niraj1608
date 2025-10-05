@@ -1,27 +1,61 @@
 ## Hi there 👋
 
-<!--
-**Niraj1608/Niraj1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Niraj Parmar**, a passionate **Software Developer** and **Tech Enthusiast** with strong interests in **Machine Learning, AI, and Web Development**.  
+I love building scalable applications, experimenting with LLMs, and contributing to open source.  
 
+💡 I enjoy solving problems at the intersection of **AI + real-world applications**, from intelligent chatbots to SEO optimization platforms.  
 
+---
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tools
+- **Languages**: Java, Python, C++, C, SQL (MySQL)  
+- **Libraries & Tools**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Selenium, OpenCV, Scrapy, Hugging Face  
+- **AI/ML & NLP**: Transformers, LLMs, RAG, Fine-Tuning, Text Preprocessing  
+- **Web Development**: React, Next.js, JavaScript, Streamlit, Django (beginner)  
+- **Other**: Leadership, Teamwork, Problem-solving, Time Management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi! I'm Niraj Parmar, a passionate Tech Enthusiast with a strong interest in machine learning, AI, and web development. 
+---
 
-I enjoy working on innovative projects that combine technology with creativity. Some of my work includes contributing to open-source, and developing ML-based applications.
+### 💼 Experience
+- **Software Developer Intern @ Infodesk (Jan 2025 – Present)**  
+  - Built **CI/CD pipelines** with AWS ECS & ECR  
+  - Developed a **high-performance search API** (FastAPI + MongoDB) → reduced response time by 40%  
+  - Improved **query performance** of large datasets by 35%  
+  - Enhanced **UI/UX** and stabilized product releases through testing  
 
-I'm always eager to learn and collaborate with others in the tech community. Feel free to explore my repositories and join me on my coding journey!
+- **Software Developer Intern @ Keshav Encon Pvt. Ltd. (Jan 2024 – Dec 2024)**  
+  - Built scraping pipelines for LinkedIn & Naukri (95% accuracy, 1000+ jobs)  
+  - Reduced scrape failures by 40% with proxies & optimized infra  
+  - Built **AI-powered job market analytics** using NLP  
 
-👯 I’m looking to collaborate on AI and ML
+- **Open Source Contributor @ GirlScript Summer of Code (Oct – Nov 2024)**  
+  - Top 80 contributor out of 3,000+ participants worldwide  
+  - Implemented features, fixed bugs, and collaborated on open projects  
 
-📫 How to reach me nirajprmr1608@gmail.com
+---
+
+### 🎓 Education
+- **B.E. Computer Science & Engineering** – The Maharaja Sayajirao University of Baroda (CGPA: 8.16/10)  
+- **12th Science (H.S.C.)** – Shree Narayan Vidhyalaya (90%)  
+
+---
+
+### 🏆 Achievements
+- 🥇 Winner – **Global Agent Hackathon 2025** for SEO InsightHub  
+- 🥈 2nd Runner-up – **Scrapathon 2025 (Infodesk Internal)**  
+- 🥈 2nd Place – **Eclipse Hacks (Devpost International Hackathon)** for Sahayta AI  
+- 🔥 Solved **200+ LeetCode problems** (Contest Rating: 1546, Top 26%)  
+- 🌟 Google Cloud Facilitator – **30 skill badges completed**  
+
+---
+
+### 📫 Let’s Connect
+- 📧 Email: [nirajprmr1608@gmail.com](mailto:nirajprmr1608@gmail.com)  
+- 🌐 Portfolio: [nirajparmar.netlify.app](https://nirajparmar.netlify.app)  
+- 💻 GitHub: [github.com/Niraj1608](https://github.com/Niraj1608)  
+- 🔗 LinkedIn: [linkedin.com/in/niraj-parmar](https://www.linkedin.com/in/niraj-parmar)  
+- 🧩 LeetCode: [leetcode.com/u/Niraj1608](https://leetcode.com/u/Niraj1608)  
+
+---
+
+⚡ *“I believe in building tech that not only solves problems but also inspires innovation.”*
