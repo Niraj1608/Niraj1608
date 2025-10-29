@@ -53,7 +53,7 @@ I love building scalable applications, experimenting with LLMs, and contributing
 - 📧 Email: [nirajprmr1608@gmail.com](mailto:nirajprmr1608@gmail.com)  
 - 🌐 Portfolio: [nirajparmar.netlify.app](https://nirajparmar.netlify.app)  
 - 💻 GitHub: [github.com/Niraj1608](https://github.com/Niraj1608)  
-- 🔗 LinkedIn: [linkedin.com/in/niraj-parmar](https://www.linkedin.com/in/niraj-parmar)  
+- 🔗 LinkedIn: [linkedin.com/in/niraj-parmar](https://www.linkedin.com/in/niraj-parmar-531b5523a/)  
 - 🧩 LeetCode: [leetcode.com/u/Niraj1608](https://leetcode.com/u/Niraj1608)  
 
 ---
